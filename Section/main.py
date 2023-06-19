@@ -1,5 +1,4 @@
 print('\n\t Data Structures in Python\n\t #Section 2')
-
 # // Challenge
 
 '''
